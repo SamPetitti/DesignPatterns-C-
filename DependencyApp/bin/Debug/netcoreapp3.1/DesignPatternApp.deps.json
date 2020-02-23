@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DesignPatternApp/1.0.0": {
+        "dependencies": {
+          "MessagePrinter": "1.0.0"
+        },
+        "runtime": {
+          "DesignPatternApp.dll": {}
+        }
+      },
+      "MessagePrinter/1.0.0": {
+        "runtime": {
+          "MessagePrinter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesignPatternApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MessagePrinter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

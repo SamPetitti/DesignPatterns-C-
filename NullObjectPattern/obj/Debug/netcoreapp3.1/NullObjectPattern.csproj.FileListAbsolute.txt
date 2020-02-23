@@ -1,0 +1,11 @@
+/Users/sampetitti/Dev/DesignPatterns-C#/NullObjectPattern/bin/Debug/netcoreapp3.1/NullObjectPattern
+/Users/sampetitti/Dev/DesignPatterns-C#/NullObjectPattern/bin/Debug/netcoreapp3.1/NullObjectPattern.deps.json
+/Users/sampetitti/Dev/DesignPatterns-C#/NullObjectPattern/bin/Debug/netcoreapp3.1/NullObjectPattern.runtimeconfig.json
+/Users/sampetitti/Dev/DesignPatterns-C#/NullObjectPattern/bin/Debug/netcoreapp3.1/NullObjectPattern.runtimeconfig.dev.json
+/Users/sampetitti/Dev/DesignPatterns-C#/NullObjectPattern/bin/Debug/netcoreapp3.1/NullObjectPattern.dll
+/Users/sampetitti/Dev/DesignPatterns-C#/NullObjectPattern/bin/Debug/netcoreapp3.1/NullObjectPattern.pdb
+/Users/sampetitti/Dev/DesignPatterns-C#/NullObjectPattern/obj/Debug/netcoreapp3.1/NullObjectPattern.csprojAssemblyReference.cache
+/Users/sampetitti/Dev/DesignPatterns-C#/NullObjectPattern/obj/Debug/netcoreapp3.1/NullObjectPattern.AssemblyInfoInputs.cache
+/Users/sampetitti/Dev/DesignPatterns-C#/NullObjectPattern/obj/Debug/netcoreapp3.1/NullObjectPattern.AssemblyInfo.cs
+/Users/sampetitti/Dev/DesignPatterns-C#/NullObjectPattern/obj/Debug/netcoreapp3.1/NullObjectPattern.dll
+/Users/sampetitti/Dev/DesignPatterns-C#/NullObjectPattern/obj/Debug/netcoreapp3.1/NullObjectPattern.pdb

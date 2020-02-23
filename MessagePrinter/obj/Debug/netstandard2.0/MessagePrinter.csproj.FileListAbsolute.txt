@@ -1,0 +1,8 @@
+/Users/sampetitti/Dev/DesignPatterns-C#/MessagePrinter/bin/Debug/netstandard2.0/MessagePrinter.deps.json
+/Users/sampetitti/Dev/DesignPatterns-C#/MessagePrinter/bin/Debug/netstandard2.0/MessagePrinter.dll
+/Users/sampetitti/Dev/DesignPatterns-C#/MessagePrinter/bin/Debug/netstandard2.0/MessagePrinter.pdb
+/Users/sampetitti/Dev/DesignPatterns-C#/MessagePrinter/obj/Debug/netstandard2.0/MessagePrinter.csprojAssemblyReference.cache
+/Users/sampetitti/Dev/DesignPatterns-C#/MessagePrinter/obj/Debug/netstandard2.0/MessagePrinter.AssemblyInfoInputs.cache
+/Users/sampetitti/Dev/DesignPatterns-C#/MessagePrinter/obj/Debug/netstandard2.0/MessagePrinter.AssemblyInfo.cs
+/Users/sampetitti/Dev/DesignPatterns-C#/MessagePrinter/obj/Debug/netstandard2.0/MessagePrinter.dll
+/Users/sampetitti/Dev/DesignPatterns-C#/MessagePrinter/obj/Debug/netstandard2.0/MessagePrinter.pdb

@@ -1,0 +1,14 @@
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/bin/Debug/netcoreapp3.1/DesignPatternApp
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/bin/Debug/netcoreapp3.1/DesignPatternApp.deps.json
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/bin/Debug/netcoreapp3.1/DesignPatternApp.runtimeconfig.json
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/bin/Debug/netcoreapp3.1/DesignPatternApp.runtimeconfig.dev.json
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/bin/Debug/netcoreapp3.1/DesignPatternApp.dll
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/bin/Debug/netcoreapp3.1/DesignPatternApp.pdb
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/obj/Debug/netcoreapp3.1/DesignPatternApp.csprojAssemblyReference.cache
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/obj/Debug/netcoreapp3.1/DesignPatternApp.AssemblyInfoInputs.cache
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/obj/Debug/netcoreapp3.1/DesignPatternApp.AssemblyInfo.cs
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/obj/Debug/netcoreapp3.1/DesignPatternApp.dll
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/obj/Debug/netcoreapp3.1/DesignPatternApp.pdb
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/bin/Debug/netcoreapp3.1/MessagePrinter.dll
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/bin/Debug/netcoreapp3.1/MessagePrinter.pdb
+/Users/sampetitti/Dev/DesignPatterns-C#/DesignPatternApp/obj/Debug/netcoreapp3.1/DesignPatternApp.csproj.CopyComplete
