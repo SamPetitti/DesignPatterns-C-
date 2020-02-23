@@ -10,17 +10,22 @@ namespace NullObjectPattern
 
     public class UserRepository : IUserRepository
     {
-        public static List Users = new List<User>(){
+        public static List<User>  Users = new List<User>(){
             new User{Name = "Sam", Id = 1, SessionTicket = 1},
             new User{Name = "Bridget", Id = 2, SessionTicket = 2}
         };
-         public User GetById(int id){
-            return Users.Where(u => u.Id = id);
+         public IUser GetById(int id){
+            
+            var user = Users.SingleOrDefault(u => u.Id == id);
+            if(user == null){
+                return new NonUser();
+            }
+            return user;
          }
     }
 
     public interface IUserRepository
     {
-        User GetById(int id);
+        IUser GetById(int id);
     }
 }
